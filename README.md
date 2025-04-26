@@ -30,3 +30,11 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Wasiq Attique** - an environmental engineer who swapped hard hats for data hats. 🌎➡️📈 After six years tackling real-world challenges in sustainability and infrastructure, I realized my favorite tool wasn’t just a blueprint — its also data. Now, I try to blend my problem-solving roots with data analytics, turning messy numbers into meaningful insights. Whether it’s fixing a pipeline or a pipeline of data, I’m all about building smarter, more sustainable solutions!
