@@ -2,7 +2,7 @@
 ===============================================================================
 Quality Checks
 ===============================================================================
-Script Purpose:
+Purpose:
     This script performs quality checks to validate the integrity, consistency, 
     and accuracy of the Gold Layer. These checks ensure:
     - Uniqueness of surrogate keys in dimension tables.
